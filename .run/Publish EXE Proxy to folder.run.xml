@@ -1,0 +1,6 @@
+﻿<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Publish EXE Proxy to folder" type="DotNetFolderPublish" factoryName="Publish to folder">
+    <riderPublish configuration="Release" delete_existing_files="true" platform="Any CPU" ready_to_run="true" runtime="win-x64" self_contained="true" target_folder="$PROJECT_DIR$/EXE Proxy/bin/Release/net8.0-windows/win-x64/publish" target_framework="net8.0-windows" trim_unused_assemblies="true" uuid_high="7821024873488138699" uuid_low="-5736479504979348245" />
+    <method v="2" />
+  </configuration>
+</component>
